@@ -1,1 +1,1 @@
-<img src="./assets/profile-img" alt="profile-img"/>
+<img src="./assets/profile-img.png" alt="profile-img"/>
