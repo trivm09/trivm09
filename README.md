@@ -1,1 +1,1 @@
-![profile image](/assets/profile-img.png)
+<img src="./assets/profile-img" alt="profile-img"/>
