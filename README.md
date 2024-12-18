@@ -1,1 +1,1 @@
-![profile image]()
+![profile image](/assets/profile-img.png)
